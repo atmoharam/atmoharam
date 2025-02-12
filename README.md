@@ -11,9 +11,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ5ZDBrcnpqeHpkcnhrOTI4bDQ2c2g4ZDBqdTVtcXlqZ3djc3JoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="500">
 </p>
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
-
+- 🌱 I’m currently learning **[Microservices: Clean Architecture](https://www.udemy.com/course/microservices-clean-architecture-ddd-saga-outbox-kafka-kubernetes)**
 <br>
 
 <div align="center">
@@ -36,5 +34,18 @@
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,mongodb,postgres,django,dotnet" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,docker,postman,kubernetes" />
 </p>
+
+<hr>
+
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
 
 <hr>
