@@ -52,6 +52,7 @@
 
 ## 🐍 My Contributions
 <div align=center>
+    
 ![Snake animation](https://github.com/atmoharam/atmoharam/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmoharam&theme=dark)
