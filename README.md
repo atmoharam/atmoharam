@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,mongodb,postgres,django,dotnet" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,figma,docker,postman,kubernetes" />
 </p>
 
 <hr>
