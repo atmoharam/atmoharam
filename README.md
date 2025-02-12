@@ -51,5 +51,5 @@
 <hr>
 
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical)
 
