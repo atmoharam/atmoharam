@@ -53,3 +53,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmoharam&theme=radical)
 
+![Snake animation](https://github.com/atmoharam/atmoharam/blob/output/github-contribution-grid-snake.svg)
+
+
