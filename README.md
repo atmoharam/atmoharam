@@ -50,10 +50,13 @@
 
 <hr>
 
+## 🐍 My Contributions
+<div align=center>
+![Snake animation](https://github.com/atmoharam/atmoharam/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atmoharam&theme=dark)
 
-![Snake animation](https://github.com/atmoharam/atmoharam/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmoharam&show_icons=true&theme=dark)
+</div>
 
