@@ -26,3 +26,15 @@
 </div>
 
 <hr>
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,angular,mongodb,postgres,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,,git,postman,figma,microservices" />
+</p>
+
+<hr>
