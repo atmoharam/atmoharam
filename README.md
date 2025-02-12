@@ -56,15 +56,11 @@
 
 ## 🐍 Contribution Graph  
 <div align=center>
+    
   ![Snake animation](https://github.com/atmoharam/atmoharam/blob/output/github-contribution-grid-snake.svg)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmoharam&show_icons=true&theme=dark)
 </div>
 
----
 
-### **🔧 Enhancements & Customization**
-✅ **Improved introduction** for clarity and engagement.  
-✅ **Better project showcase** with links.  
-✅ **Streamlined stats & visuals** for a cleaner look.  
-✅ **Custom branding with colors & badges**.  
 
-Would you like additional customizations, such as **real-time GitHub activity**, a **latest blog section**, or **more interactive elements**? 🚀
