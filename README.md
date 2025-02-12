@@ -55,4 +55,7 @@
 
 ![Snake animation](https://github.com/atmoharam/atmoharam/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atmoharam&show_icons=true&theme=radical)
+
+
 
